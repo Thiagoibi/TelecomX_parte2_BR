@@ -7,9 +7,11 @@ Este projeto tem como objetivo desenvolver modelos preditivos capazes de prever 
 
 ## 📂 Estrutura do Projeto
 
-- `TelecomX_part2_BR.ipynb`: Notebook com todo o passo a passo da análise.
-- `README.md`: Documento de apresentação do projeto.
 - `dados_tratados.csv`: Base de dados usada no projeto.
+- `README.md`: Documento de apresentação do projeto.
+- `TelecomX_Parte2_dicionario.md`: Dicionario de dados.
+- `TelecomX_part2_BR.ipynb`: Notebook com todo o passo a passo da análise.
+
 ---
 
 ## 🔍 Etapas da Análise
