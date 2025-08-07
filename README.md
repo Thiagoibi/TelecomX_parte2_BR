@@ -3,7 +3,7 @@
 
 ## 📋 Descrição
 Este projeto tem como objetivo desenvolver modelos preditivos capazes de prever quais clientes têm maior chance de cancelar seus serviços. Atravez da modelagem e da análise de correlação e seleção de variáveis, treinamento de modelos de classificação, avaliação de desempenho dos modelos com métricas. E por fim interpretar os resultados, incluindo a importância das variáveis, é apontar os principais fatores que influenciam a evasão.
----
+
 
 ## 📂 Estrutura do Projeto
 
